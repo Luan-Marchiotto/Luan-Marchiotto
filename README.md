@@ -4,7 +4,6 @@
 #### *I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.*
 
 ## 🤖 Languages ​​and Technologies
-
 <img 
     align="left" 
     alt="Python" 
@@ -69,9 +68,9 @@
     width="40px" 
 />  
 
-<br><br>
+<br><br><br>
 
-### 📊 Statistics
+## 📊 Statistics
 
 <table>
   <a href="https://github.com/Luan-Marchiotto">
