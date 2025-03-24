@@ -95,7 +95,6 @@
     </a> 
 </div>
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=90&section=footer"/>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Luan-Marchiotto&theme=onedark)](https://github.com/Luan-Marchiotto/github-profile-trophy) -->
