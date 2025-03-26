@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hi%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hi%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0"/>
 
 ## About me
 #### *I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.*
@@ -86,12 +86,13 @@
     <a href="https://www.instagram.com/Luan_Marchiotto/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
+        <a href="https://www.linkedin.com/in/luan-marchiotto/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
     <a href = "mailto: Luan-Marchiotto.com.br">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/luan-marchiotto/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=90&section=footer"/>
