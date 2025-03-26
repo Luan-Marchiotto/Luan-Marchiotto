@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hi%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0" />
 
 ## About me
 #### *I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.*
