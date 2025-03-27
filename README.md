@@ -1,4 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hi%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0"/>
+<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hi%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0"/> -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Hi+Dev's+I'm+Luan+Marchiotto">
+  </a>
+</div>
+
+
 
 ## About me
 #### *I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.*
