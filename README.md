@@ -6,7 +6,7 @@
 </div>
 
 ## 👨🏻‍💻 About me
-#### *I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.*
+<span style="font-size: 20px;"> **I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.** </span>
 
 ## 🤖 Languages ​​and Technologies
 <img 
