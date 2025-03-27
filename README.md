@@ -76,12 +76,14 @@
 <br><br><br>
 
 ## 📊 Statistics
-<div style="text-align: center;">
+<div style="text-align: center;" align="center">
   <a href="https://github.com/Luan-Marchiotto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Marchiotto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marchiotto&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
+
+
 <br>
 <a href="https://github.com/Luan-Marchiotto/github-readme-activity-graph">
     <img alt="Luan-Marchiotto's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luan-Marchiotto&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
