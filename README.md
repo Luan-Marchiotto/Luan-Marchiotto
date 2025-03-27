@@ -1,11 +1,9 @@
-<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hi%20Dev's,%20I'm%20Luan%20Marchiotto&fontSize=35&fontColor=FFFFFF&fontAlignY=30&color=A020F0"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Hi+Dev's+I'm+Luan+Marchiotto">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=34&color=7B68EE&center=true&vCenter=true&random=false&width=524&lines=Hi+I'm+Luan+Marchiotto&pause=3000">
   </a>
 </div>
-
-
 
 ## About me
 #### *I have a degree in Systems Analysis and Development from FATEC Ourinhos, a passionate developer who loves experimenting with technologies and improving user experiences.*
@@ -78,15 +76,17 @@
 <br><br><br>
 
 ## 📊 Statistics
-
-<table>
+<div style="text-align: center;">
   <a href="https://github.com/Luan-Marchiotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Marchiotto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marchiotto&layout=compact&langs_count=6&theme=tokyonight"/>
-</table>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Marchiotto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marchiotto&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
 <a href="https://github.com/Luan-Marchiotto/github-readme-activity-graph">
     <img alt="Luan-Marchiotto's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luan-Marchiotto&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
+
 
 ## Connect with me:
 <div> 
@@ -99,9 +99,7 @@
     <a href = "mailto: Luan-Marchiotto.com.br">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=90&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=90&section=footer"/>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Luan-Marchiotto&theme=onedark)](https://github.com/Luan-Marchiotto/github-profile-trophy) -->
