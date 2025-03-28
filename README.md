@@ -76,22 +76,19 @@
 <br><br><br>
 
 ## 📊 Statistics
-
-<p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luan-Marchiotto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Luan-Marchiotto&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marchiotto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marchiotto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
+
 <br>
 <a href="https://github.com/Luan-Marchiotto/github-readme-activity-graph">
     <img alt="Luan-Marchiotto's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luan-Marchiotto&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
